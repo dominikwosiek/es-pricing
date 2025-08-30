@@ -1,4 +1,5 @@
 # es-pricing — motor TPL frequency (FR)
+*Utworzone z pomocą ChatGPT.*
 
 End-to-end pricing: preprocessing (capping), GLM (Poisson/NB) + LightGBM, analizy (Gini, Poisson dev.), Lorenz, kalibracja, raporty HTML.
 
