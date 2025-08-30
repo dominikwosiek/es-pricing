@@ -7,3 +7,11 @@ lightgbm>=4.0
 matplotlib>=3.7
 requests>=2.31
 ruamel.yaml>=0.17
+streamlit>=1.36
+plotly>=5.22
+lightgbm>=4.3
+statsmodels>=0.14
+scikit-learn>=1.4
+pyarrow>=15.0  # do Parquet
+kaleido>=0.2.1  # opcjonalnie do zapisu wykresów jako PNG
+
