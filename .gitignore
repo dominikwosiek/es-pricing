@@ -1,0 +1,31 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pkl
+*.parquet
+*.ipynb_checkpoints
+
+# Envs / IDE
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Secrets
+kaggle.json
+.env
+
+# Dane i wyniki (generowane lokalnie)
+data/**
+!data/README.md
+
+# Raporty / obrazki / paczki (generowane)
+*.png
+*.html
+*.zip
+
+# System/OneDrive
+Thumbs.db
+.DS_Store
+~$*
+*.tmp
